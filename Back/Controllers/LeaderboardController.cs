@@ -57,9 +57,9 @@ namespace Leaderboard.Controllers
 
             // TODO : Increment number of plays
 
-            // TODO : Get player best score
+            // TODO : Get current player best score
 
-            // TODO : Save the new best score of a player (if possible)
+            // TODO : Save the new best score of the current player (if possible)
 
             // TODO : Return true if the score is now in the top 5
             return default;
